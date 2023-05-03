@@ -1,0 +1,29 @@
+table {
+	border-collapse:collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td {
+	background-color: black;
+	border: 3px solid white;
+	font-size:80px;
+	color:#ffffff;
+	border-radius: 10px 10px 10px 10px;
+}
+div #player{
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    font-size: larger;
+}
+body{
+    background-color: darkslategrey;
+}
+
+header{
+    text-align: center;
+    background-color: moccasin;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: xx-large;
+}
