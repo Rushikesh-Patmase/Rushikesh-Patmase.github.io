@@ -7,4 +7,4 @@ Simple TIC TAC TOE Game
 ![TicTacToeGame2](https://user-images.githubusercontent.com/105331213/235873691-37cbc3ac-6f0f-4ab1-8afb-71404a61e23f.jpg)
 
 ## LIVE DEMO
-TicTacToe Demo ] (https://rushikesh-patmase.github.io)
+[TicTacToe Demo](https://rushikesh-patmase.github.io)
